@@ -1,0 +1,12 @@
+
+
+public interface CopVsPlayerDuel {
+
+	public void damageCop(int damage);
+	
+	public void reLivePlayer(Player player) ;
+	
+	public Cop createNewCop();
+}
+
+
